@@ -4,8 +4,8 @@ Gem::Specification.new do |gem|
   gem.date        = '2019-03-04'
   gem.summary     = "Recursive InterNetwork Architecture ( RINA ) stack written in Ruby"
   gem.description = "RINA foundation classes for Ruby"
-  gem.authors     = ["Chuck Remes"]
-  gem.email       = ["git@chuckremes.com"]
+  gem.authors     = ["Chuck Remes", "Donovan Keme"]
+  gem.email       = ["git@chuckremes.com", "code@extremist.digital"]
   gem.files       = Dir[
                     "README.md",
                     "CHANGES.md",
