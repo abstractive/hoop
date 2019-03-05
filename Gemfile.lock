@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    hoop (0.0.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hoop!
+
+BUNDLED WITH
+   1.16.1
